@@ -1,0 +1,30 @@
+C:\Users\_JS\Documents\Programação\ListaDeLista\bin\Debug\net6.0\ListaDeLista.exe
+C:\Users\_JS\Documents\Programação\ListaDeLista\bin\Debug\net6.0\ListaDeLista.deps.json
+C:\Users\_JS\Documents\Programação\ListaDeLista\bin\Debug\net6.0\ListaDeLista.runtimeconfig.json
+C:\Users\_JS\Documents\Programação\ListaDeLista\bin\Debug\net6.0\ListaDeLista.dll
+C:\Users\_JS\Documents\Programação\ListaDeLista\bin\Debug\net6.0\ListaDeLista.pdb
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.csproj.AssemblyReference.cache
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.AssemblyInfoInputs.cache
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.AssemblyInfo.cs
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.csproj.CoreCompileInputs.cache
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.dll
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\refint\ListaDeLista.dll
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.pdb
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ListaDeLista.genruntimeconfig.cache
+C:\Users\_JS\Documents\Programação\ListaDeLista\obj\Debug\net6.0\ref\ListaDeLista.dll
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.csproj.AssemblyReference.cache
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.AssemblyInfoInputs.cache
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.AssemblyInfo.cs
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.csproj.CoreCompileInputs.cache
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.dll
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\refint\ListaDeLista.dll
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.pdb
+D:\Ifes\Programação para Web\ListaDeLista-main\bin\Debug\net6.0\ListaDeLista.exe
+D:\Ifes\Programação para Web\ListaDeLista-main\bin\Debug\net6.0\ListaDeLista.deps.json
+D:\Ifes\Programação para Web\ListaDeLista-main\bin\Debug\net6.0\ListaDeLista.runtimeconfig.json
+D:\Ifes\Programação para Web\ListaDeLista-main\bin\Debug\net6.0\ListaDeLista.dll
+D:\Ifes\Programação para Web\ListaDeLista-main\bin\Debug\net6.0\ListaDeLista.pdb
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ListaDeLista.genruntimeconfig.cache
+D:\Ifes\Programação para Web\ListaDeLista-main\obj\Debug\net6.0\ref\ListaDeLista.dll
